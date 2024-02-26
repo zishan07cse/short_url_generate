@@ -1,4 +1,4 @@
-# short_url_generate
+# Short url generate
 ## About Project
 
 This project is for url shortener system. First user has to register and then log in, The User will enter url in the input type, and after clicking on 
